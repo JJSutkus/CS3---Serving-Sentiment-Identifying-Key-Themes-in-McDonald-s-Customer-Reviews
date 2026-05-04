@@ -1,1 +1,1 @@
-# CS3---Serving-Sentiment-Identifying-Key-Themes-in-McDonald-s-Customer-Reviews
+# CS3 - Serving Sentiment: Identifying Key Themes in McDonald's Customer Reviews
